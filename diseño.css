@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+}
+
+.contenedor {
+    background: rgba(255, 190, 255, 0.795);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p {
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button {
+    font-size: xx-large;
+    padding: 0.75em;
+    color: plum;
+    background-color: rgb(207, 30, 169);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#yesBtn {
+    transform: translate(-100%, 0);
+    color: pink;
+}
+
+#noBtn {
+    position: absolute;
+    color: rgb(113, 113, 231);
+}
